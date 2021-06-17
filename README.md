@@ -1,7 +1,7 @@
 # Automobile-Linear-Optimization
 Created and conducted linear optimization models with Python
 
-Problem Statement
+# Problem Statement
 Linear programming is a set of mathematical techniques used to solve systems of linear equations and inequalities while maximizing or minimizing some linear function for a desired result. Over the years, linear programming has become important in fields such as scientific computing, economics, and other management systems. Because of the increase in demand for calculations to be done in this manner, reliance on powerful tools such as Python programming is becoming a necessity when optimizing linear programming problems.
 
 For the purpose of this project, the following problem was assigned:
